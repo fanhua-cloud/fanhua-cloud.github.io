@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "fanhua-cloud"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+我是2026级数学类，想要在未来从事AI和算法方面的工作，计划转专业和读研，正在打计算机语言基础。
 
-My research interest includes 
+My research interest includes AI背后的算法如何设计，如何更好地运行AI
 
 
 # 🔥 News
@@ -32,7 +32,7 @@ My research interest includes
 
 
 # 📖 Educations
-
+2026.09-至今,福州大学，数学类专业，本科
 
 # 💬 Invited Talks
 
