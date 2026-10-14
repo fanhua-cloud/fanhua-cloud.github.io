@@ -22,6 +22,16 @@ redirect_from:
 - 短期：打好 C/C++ 与数据结构基础
 - 中期：学习机器学习基础，并尝试参与一个小项目
 
+# 🔥 News
+
+# 📝 Publications
+
+# 🎖 Honors and Awards
+
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2026.09 - 至今*, 福州大学，数学类专业，本科
+
+# 💬 Invited Talks
+
+# 💻 Internships
