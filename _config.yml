@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "fanhua-cloud"
-description              : "studying"
+description              : "福州大学数学类专业本科生 · 正在打编程与计算机基础"
 repository               : "fanhua-cloud/fanhua-cloud.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "2712621353@qq.com"
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
