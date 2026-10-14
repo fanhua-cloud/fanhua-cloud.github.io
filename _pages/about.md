@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是 2026 级数学类专业本科生，希望未来从事 AI 与算法方向的工作，计划转专业并读研，目前正在打编程与计算机基础。
+我是数学类专业本科生，对 AI 与算法方向感兴趣，目前正在打编程与计算机基础。
 
 <span class='anchor' id='research'></span>
 # 🔬 Research Interests
